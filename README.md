@@ -1,4 +1,4 @@
-# ML_Final
+# CAS747-Final
 
 Student name : Zeinab (Sheida) Emdadi
 This project is done as the final exam of the CAS 747 course at McMaster University.
@@ -6,7 +6,7 @@ For any enquiries please contac Emdadibz@mcmaster.ca
 
 
 # Installations
-The following instructions are for preparing libraries to run the code on Jupyter Notebook.
+The following instructions are Included in the beginning part of the ML_Project.ipynb file. Please run all of the cells for preparing libraries to run the code on Jupyter Notebook.
 
 
 ```python
