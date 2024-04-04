@@ -6,7 +6,7 @@ For any enquiries please contac Emdadibz@mcmaster.ca
 
 
 # Installations
-The following instructions are Included in the beginning part of the ML_Project.ipynb file. Please run all of the cells for preparing libraries to run the code on Jupyter Notebook.
+The following instructions are Included in the beginning part of the *ML_Project.ipynb* file. **Please run all of the cells in the *ML_Project.ipynb* file**, for preparing libraries to run the code on Jupyter Notebook.
 
 
 ```python
