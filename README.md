@@ -2,7 +2,7 @@
 
 Student name : Zeinab (Sheida) Emdadi
 This project is done as the final exam of the CAS 747 course at McMaster University.
-For any enquiries please contac Emdadibz@mcmaster.ca
+For any enquiries please contact Emdadibz@mcmaster.ca
 
 # Instructions
 **Please run all of the cells in the *ML_Project.ipynb* file.** No other modications is needed!
