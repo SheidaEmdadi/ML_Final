@@ -44,10 +44,7 @@ tqdm
 --hidden_dim                 Hidden Dimension Size (default: 16)
 --lr                         Learning Rate (default: 0.01)
 --l2_coef                    Regularization coefficient (default: 0.01)
---drop_edge                  Drop Edge Flag (default: True)
---add_edge                   Add Edge Flag (default: False)
 --self_loop                  Self-loop flag (default: True)
 --preprocess_feat            Preprocess Features (default: True)
---GNN_name                   GNN Encoder (default: GCN)
 --num_neigh                  Number of Neighbors in the State-Space Graph (default: 1)  
 ```               
