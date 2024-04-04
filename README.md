@@ -1,15 +1,13 @@
 # ML_Final
 
 Student name : Zeinab (Sheida) Emdadi
-
 This project is done as the final exam of the CAS 747 course at McMaster University.
-For any enquires please contac Emdadibz@mcmaster.ca
+For any enquiries please contac Emdadibz@mcmaster.ca
 
 
 # Installations
 The following instructions are for preparing libraries to run the code on Jupyter Notebook.
 
-## pytorch
 
 ```python
 
@@ -18,4 +16,19 @@ The following instructions are for preparing libraries to run the code on Jupyte
 ```
 ```python
 ! pip install  torch_geometric
+```
+
+### Other requirements
+
+```python
+pygod
+networkx
+matplotlib
+scipy
+seaborn
+dgl
+sklearn
+bioinfokit
+requests
+tqdm
 ```
