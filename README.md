@@ -32,19 +32,4 @@ bioinfokit
 requests
 tqdm
 ```
-
-
-## Main Parameters
-
-```python
---dataset                    Anomaly detection dataset (default: disney)
---perturb_percent            Percentages of edges to be added/deleted (default: 0.05)
---seed                       Random Number Seed (default: 42)
---nb_epochs                  Number of epochs (default: 200)
---hidden_dim                 Hidden Dimension Size (default: 16)
---lr                         Learning Rate (default: 0.01)
---l2_coef                    Regularization coefficient (default: 0.01)
---self_loop                  Self-loop flag (default: True)
---preprocess_feat            Preprocess Features (default: True)
---num_neigh                  Number of Neighbors in the State-Space Graph (default: 1)  
-```               
+         
