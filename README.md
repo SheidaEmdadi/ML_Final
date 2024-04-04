@@ -18,6 +18,10 @@ The following instructions are for preparing libraries to run the code on Jupyte
 ! pip install  torch_geometric
 ```
 
+```python
+! pip install pygod
+
+```
 ### Other requirements
 
 ```python
