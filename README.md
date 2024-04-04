@@ -31,7 +31,6 @@ matplotlib
 scipy
 sklearn
 ```
-<<<<<<< HEAD
 
 # Acknowledgement    
 This project is a reimplementation of the GAD-EBM: Graph Anomaly Detection
@@ -45,6 +44,3 @@ using Energy-Based Models
   year   = {2023}
 }
 ```
-=======
-         
->>>>>>> 12e3e2995dd45487184d330960b445ac0ddcf22b
