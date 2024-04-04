@@ -31,4 +31,16 @@ matplotlib
 scipy
 sklearn
 ```
-         
+
+# Acknowledgement    
+This project is a reimplementation of the GAD-EBM: Graph Anomaly Detection
+using Energy-Based Models
+
+```bibtex
+@inproceedings{Roy2023gadnr,
+  title  = {GAD-EBM: Graph Anomaly Detection using Energy-Based Models},
+  author = {Roy, Amit and Shu, Juan and Li, Olivier and Smeets, Jeroen and Zhang, Ruqi and Li, Pan},
+  booktitle={New Frontiers in Graph Learning (GLFrontiers), NeurIPS Workshop 2023},
+  year   = {2023}
+}
+```
