@@ -4,33 +4,16 @@ Student name : Zeinab (Sheida) Emdadi
 This project is done as the final exam of the CAS 747 course at McMaster University.
 For any enquiries please contact Emdadibz@mcmaster.ca
 
-# Instructions
-**Please run all of the cells in the *ML_Project.ipynb* file.** No other modications needed!
 
 # Installations
-This notebook is using these instructions to install the libraries.
+Please install the requirements before running the notebook with the following instruction:
 
 ```python
-
-! pip  install torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.2.0+cu121.html
-
-```
-```python
-! pip install  torch_geometric
+! pip install -r requirements.txt
 ```
 
-```python
-! pip install pygod
-
-```
-### Other requirements
-
-```python
-pygod
-matplotlib
-scipy
-sklearn
-```
+# Run
+**Please run all of the cells in the *ML_Project.ipynb* file.** No other modifications needed!
 
 # Acknowledgement    
 This project is a reimplementation of the GAD-EBM: Graph Anomaly Detection
