@@ -15,7 +15,7 @@ Please install the requirements before running the notebook with the following i
 # Run
 **Please run all of the cells in the *ML_Project.ipynb* file.** No other modifications needed!
 
-# Acknowledgement    
+# Reference   
 This project is a reimplementation of the GAD-EBM: Graph Anomaly Detection
 using Energy-Based Models
 
